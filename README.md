@@ -1,6 +1,6 @@
 graphics-dependencies
 =====================
-
+graphics-dependencies
 Universal App and Windows Phone projects for MSOpenTech graphics projects dependencies (cocos2d-x and OpenFrameworks).
 
 Please note that the versions of each lib in this repository is determined by the cocos2d-x external dependencies versions at:
